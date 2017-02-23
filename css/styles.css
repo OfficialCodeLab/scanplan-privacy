@@ -1,0 +1,25 @@
+/*==============================================================================*\
+	Your Website Name
+
+	List your colour variables here to remember them more easily.
+
+	Author: Your Name
+	Version: 1.0.0
+\*==============================================================================*/
+h1 h2 h3 h4 h5 h6{
+	/* Add your default font here */
+}
+h3{
+	margin-bottom:  20px;
+}
+p{
+	/* Add your default font here */
+	/* font-size:  20px; */
+	font-size: 1.3em;
+}
+body{
+	margin-top: 64px;
+}
+/*==============================================================================*\
+	Create your custom classes here
+\*==============================================================================*/
